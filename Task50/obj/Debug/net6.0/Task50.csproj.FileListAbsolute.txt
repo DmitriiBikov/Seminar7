@@ -1,0 +1,16 @@
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\Task50.exe
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\Task50.deps.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\Task50.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\ref\Task50.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\bin\Debug\net6.0\Task50.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.GlobalUsings.g.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\ref\Task50.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar7\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
